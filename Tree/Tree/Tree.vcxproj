@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{4798B348-264F-431D-8FF4-D3A0C681C9B7}</ProjectGuid>
+    <ProjectGuid>{97A6FDBD-0A24-4E9B-90E6-22631E050B7A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>BinarySearch</RootNamespace>
+    <RootNamespace>Tree</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -76,8 +76,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
