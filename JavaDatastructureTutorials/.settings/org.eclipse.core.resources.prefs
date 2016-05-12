@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
+encoding//src/sort/BubbleSort.java=UTF-8
+encoding//src/sort/InsertionSort.java=UTF-8
 encoding//src/sort/InterchangeSort.java=UTF-8
 encoding//src/sort/SelectionSort.java=UTF-8

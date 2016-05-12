@@ -19,7 +19,7 @@ public class InterchangeSort {
 	public static void main(String[] args) {
 		
 		int A[] = { 4, 1, 2, 0, 22, 7 , 6, 13, 8 };	//Mảng A
-		int nA = 9;									//Biến nA lư số phần tử mảng A
+		int nA = 9;						
 		InterchangeSort(A, nA);
 		for (int i = 0; i < nA; i++) {
 			System.out.print(A[i] + " ");
